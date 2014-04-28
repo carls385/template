@@ -51,7 +51,7 @@ a:hover {
 
 #menu {
 	width:150px;
-	display: block;
+	display: inline;
 	float:left;
 	margin-left:-40px;
 	}
