@@ -44,7 +44,8 @@ a:hover {
 	height:30px;
 	width:110px;
 	text-align:center;
-	font-size:26px;
+	font-size:15px;
+	font-family: verdana;
 	border: 2px solid blue;
 	border-radius:10px;
 }
